@@ -532,6 +532,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",BTV
 https://media.amarnet.net/btv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",BTV
+https://media.amarnet.net/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Anando TV
 https://media.amarnet.net/ananda_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",AND Picture
@@ -560,10 +562,18 @@ https://media.amarnet.net/gazi_tv/index.m3u8
 https://media.amarnet.net/MAASRANGA_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",NTV HD
 https://media.amarnet.net/NTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",United 8 HD
+https://media.amarnet.net/Unite8/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Ben Sports 1 HD
+https://media.amarnet.net/Bein_Sports_1_ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Ben Sports Xtra 1 HD
+https://media.amarnet.net/beIN_Sports_Xtra/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Channel I HD
 https://media.amarnet.net/Channel_I/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Nick HD
 https://media.amarnet.net/nick/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Channel 24 HD
+https://media.amarnet.net/Channel_24/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",SA TV
 https://media.amarnet.net/sa_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Star Movies HD
