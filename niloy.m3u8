@@ -813,6 +813,18 @@ https://tvx.kbhub.online/ATN-Bangla-HD.m3u8
 https://tvx.kbhub.online/Bangla-Vision.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",RTV HD
 https://tvx.kbhub.online/RTV-Live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",SA TV
+https://tvx.kbhub.online/SA-Tv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Thikana HD
+https://tvx.kbhub.online/Thikana.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",MY TV HD
+https://tvx.kbhub.online/My-Tv-B.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Bijoy TV HD
+https://tvx.kbhub.online/Bijoy-TV.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Sony Max HD
+https://media.amarnet.net/sonymaxhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
