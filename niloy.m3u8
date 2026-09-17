@@ -1081,29 +1081,6 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/61674.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports
-https://playztv-apps.pages.dev/asports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports25
-https://iptvlive-beta.vercel.app/asports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports
-http://51.79.251.252:8080/asports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports HD
-http://51.79.251.252:7171/asports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports HD
-http://51.79.251.252:8080/asports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports
-http://51.79.251.252:8080/asports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/43444.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png"group-title="Sport Update",A Sports
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 http://27.124.71.27/Willow_Extra/index.m3u8
@@ -1116,7 +1093,8 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
  https://playztv-apps.pages.dev/willow/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",A SPORTS HD
+https://media.amarnet.net/ASportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png/revision/latest?cb=20260609181225"group-title="Sport Update",United 8 Sports HD 1
 
 
