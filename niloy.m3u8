@@ -469,6 +469,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Colors Bangla Cinema HD
 http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Colors Bangla Cinema HD BD
+http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Asian TV HD
 http://livetv.akr4m.com:8080/bdtv/restrem/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",T Sport HD
