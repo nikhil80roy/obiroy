@@ -433,10 +433,83 @@ https://tvsen6.aynaott.com/channel52/index.m3u8
 http://107.167.16.138/zeeaction/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",AndPicture HD
 https://media.amarnet.net/AndPictureHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Bangla TV
+http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Bijoy TV
+http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Boishaki TV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/10.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",BTV CTG
+http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",BTV HD BD
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",BTV NEWS HD
+http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Channel 24 HD
+http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Channel I HD
+http://livetv.akr4m.com:8080/bdtv/restrem/15.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Channel 9 HD
+http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Deepto TV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Desh TV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Star Sport 1 HD
+http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",DBC NEWS HD
+http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Zee Bangla HD
+http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Colors Bangla HD
+http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Star Jalsa HD
+http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",SangSad TV
+http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Colors Bangla Cinema HD
+http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Asian TV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",T Sport HD
+http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Ananda TV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",RTV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Star Gold
+http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Colours HD
+http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Star Plus HD
+http://livetv.akr4m.com:8080/bdtv/restrem/62.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Zee Cinema HD
+http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Dangal HD
+http://livetv.akr4m.com:8080/bdtv/restrem/64.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Khusbo Bangla HD
+http://livetv.akr4m.com:8080/bdtv/restrem/68.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",9x Jalwa
+http://livetv.akr4m.com:8080/bdtv/restrem/70.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla" group-title="",Jalsha Movies HD
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/425.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla" group-title="",Jalsha Movies HD
