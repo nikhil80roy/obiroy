@@ -62,13 +62,13 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Nexus TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brB6Xyc6/images.jpg"group-title="Bangla BD" group-title="",Nexus TV
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",T Sports TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports TV
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",T Sports Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Channel 52
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZKKq4FP/images.jpg"group-title="Bangla BD" group-title="",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Bangla TV HD
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
