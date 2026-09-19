@@ -121,8 +121,6 @@ https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",USB Television
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Global TV
-https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0z7H3nX/images.jpg"group-title="Bangla BD" group-title="",RTV
 http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0z7H3nX/images.jpg"group-title="Bangla BD" group-title="",RTV Backup
@@ -131,6 +129,8 @@ http://116.204.149.16/rtvhd/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/24.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV
 http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV
 http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90s3Xywv/images.jpg"group-title="Bangla BD" group-title="",Somoy TV
