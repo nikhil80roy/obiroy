@@ -537,8 +537,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",NICK BD
 http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",
-
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="NIKHIL",Somoy TV HD
+https://media.amarnet.net/SOMOY_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla" group-title="",Jalsha Movies HD
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/425.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla" group-title="",Jalsha Movies HD
