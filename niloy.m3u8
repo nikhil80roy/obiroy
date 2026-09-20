@@ -38,6 +38,8 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x95285"group-title="Bangla BD" group-title="",Channel I
 https://tvsen3.b-cdn.net/qUud8Nxs/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x95285"group-title="Bangla BD" group-title="",Channel Backup
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgCKd0Zz/images.png"group-title="Bangla BD" group-title="",Bangla Vision HD
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3ycvpL/images.jpg"group-title="Bangla BD" group-title="",Enter TV HD BD
