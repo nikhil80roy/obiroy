@@ -123,6 +123,8 @@ https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chu
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News HD
 http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News Backup
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV HD
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup
