@@ -105,6 +105,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
 https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24
 http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24 backup
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent TV
 http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV
@@ -115,6 +117,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando TV 
 http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup TV
@@ -127,6 +131,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Star Bangla
 http://103.151.60.162:2122/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Probashi TV
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0z7H3nX/images.jpg"group-title="Bangla BD" group-title="",RTV
@@ -135,12 +141,18 @@ http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna TV
 http://livetv.akr4m.com:8080/bdtv/restrem/24.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna TV Backup
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV
 http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV
 http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup
+https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 3
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90s3Xywv/images.jpg"group-title="Bangla BD" group-title="",Somoy TV
 https://media.amarnet.net/SOMOY_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Boishaki TV
@@ -600,7 +612,7 @@ https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Oscar_movies_bhojpuri.png/revision/latest/scale-to-width-down/1000?cb=20210510102742"group-title="Bhojpuri Channel" group-title="",Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
-https://cdn-2.pishow.tv/live/419/master.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Pitaara_2.jpeg/revision/latest?cb=20191219155318"group-title="Hindi channel" group-title="",Pitara Movies
