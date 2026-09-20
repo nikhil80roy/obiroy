@@ -143,6 +143,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna TV
 http://livetv.akr4m.com:8080/bdtv/restrem/24.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna Backup 3
+https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna TV Backup
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV
