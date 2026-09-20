@@ -36,6 +36,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/5.m3u8
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup
+https://media.amarnet.net/ATN_News/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel I
 https://tvsen3.b-cdn.net/qUud8Nxs/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel Backup
@@ -187,6 +189,10 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 https://media.amarnet.net/SOMOY_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90s3Xywv/images.jpg"group-title="Bangla BD" group-title="",Somoy TV Backup
 https://tvsen5.aynascope.net/somoytv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama Backup
+https://media.amarnet.net/G_series/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Boishaki TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/BTV_Chattogram_Logo.svg"group-title="Bangla channel" group-title="",BTV Chattagram HD
