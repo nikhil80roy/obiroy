@@ -66,6 +66,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYvKbS7Q/images.png"group-title="Bangla BD" group-title="",Nagorik TV Backup TV
 http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYvKbS7Q/images.png"group-title="Bangla BD" group-title="",Nagorik TV Backup 4
+http://103.102.27.173:84/NAGORIK-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYvKbS7Q/images.png"group-title="Bangla BD" group-title="",Nagorik TV Backup 3
 http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvGBPSLM/images.png"group-title="Bangla BD" group-title="",Rajdhani TV HD
@@ -392,7 +394,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla" group-title="",Star Jalsa HD
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla" group-title="",Sun Bangla
-http://103.180.212.191:3500/live/1669.m3u8
+http://103.102.27.173:84/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla" group-title="",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla" group-title="",Colours Bangla Cinema
