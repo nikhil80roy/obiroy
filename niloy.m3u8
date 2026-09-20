@@ -115,6 +115,8 @@ https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV HD
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup
+http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup
