@@ -36,6 +36,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/5.m3u8
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup 3
+http://103.102.27.173:84/ATN-NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup
 https://media.amarnet.net/ATN_News/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel I
@@ -44,6 +46,8 @@ https://tvsen3.b-cdn.net/qUud8Nxs/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgCKd0Zz/images.png"group-title="Bangla BD" group-title="",Bangla Vision HD
 https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgCKd0Zz/images.png"group-title="Bangla BD" group-title="",Bangla Vision Backup
+http://103.102.27.173:84/Bangla-Vision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3ycvpL/images.jpg"group-title="Bangla BD" group-title="",Enter TV HD BD
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRXYPSQ/images.jpg"group-title="Bangla BD" group-title="",Deepto TV HD
@@ -133,6 +137,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup
+http://103.102.27.173:84/Desh-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News HD
 http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News Backup
@@ -165,6 +171,8 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Mz80KD/images.jpg"group-title="Bangla BD" group-title="",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Mz80KD/images.jpg"group-title="Bangla BD" group-title="",Channel S Backup
+http://103.102.27.173:84/Channel-S/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0z7H3nX/images.jpg"group-title="Bangla BD" group-title="",RTV
 http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0z7H3nX/images.jpg"group-title="Bangla BD" group-title="",RTV Backup
