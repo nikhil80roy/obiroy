@@ -64,6 +64,8 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://playztv-apps.pages.dev/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga TV
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga TV HD
