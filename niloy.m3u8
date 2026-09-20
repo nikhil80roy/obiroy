@@ -111,6 +111,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3803.ts
 http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup
 https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 3
+https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24
 http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24 backup
@@ -139,6 +141,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup 3 TV
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup4 TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",USB Television
