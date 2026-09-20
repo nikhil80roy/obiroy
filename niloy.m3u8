@@ -131,10 +131,18 @@ https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24 backup
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24 backup 3
+http://103.102.27.173:84/channel-24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwR9MndY/loading.gif"group-title="Bangla BD" group-title="",Star news HD
+http://103.102.27.173:84/CHANNEL-9-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwR9MndY/loading.gif"group-title="Bangla BD" group-title="",Star news Backup
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent TV
 http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent Backup
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent Backup 3
+http://103.102.27.173:84/Independent-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup
@@ -151,6 +159,8 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup 3
+http://103.102.27.173:84/NEWS24-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando TV 
 http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup TV
@@ -181,12 +191,16 @@ http://116.204.149.16/rtvhd/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/24.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna Backup 3
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna Backup 4
+http://103.102.27.173:84/Jamuna-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna TV Backup
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV
 http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 3
+http://103.102.27.173:84/global-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV
 http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup
