@@ -1,9 +1,13 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National Backup 4
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National Backup 3
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News Backup 3
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News Backup
 http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National Backup
@@ -98,6 +102,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/429.ts
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup
 http://livetv.akr4m.com:8080/bdtv/restrem/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 3
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cDKdKBC/images.jpg"group-title="Bangla BD" group-title="",Desi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv
@@ -106,6 +112,8 @@ https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brB6Xyc6/images.jpg"group-title="Bangla BD" group-title="",Nexus TV
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brB6Xyc6/images.jpg"group-title="Bangla BD" group-title="",Nexus Backup
@@ -181,8 +189,10 @@ http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup 3 TV
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup4 TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup 4 
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando Backup 5 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqfCfNJb/images.png"group-title="Bangla BD" group-title="",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla BD" group-title="",USB Television
