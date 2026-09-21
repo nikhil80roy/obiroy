@@ -86,6 +86,8 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://playztv-apps.pages.dev/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup 4
+http://103.102.27.173:84/Ekhon-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup TV
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup 3
@@ -128,6 +130,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brB6Xyc6/images.jpg"group-title="Bangla BD" group-title="",Nexus Backup
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brB6Xyc6/images.jpg"group-title="Bangla BD" group-title="",Nexus Backup 2
+http://103.102.27.173:84/Nexus-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2gPHN1P/images.jpg"group-title="Bangla BD" group-title="",Desh Bangla TV HD
 ttps://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports TV
