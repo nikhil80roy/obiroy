@@ -1011,6 +1011,8 @@ https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song Backup
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXlZxYUbsmGZHQvxOtsVe7o63AbZEKbXvQ3y7IZsCfQ&s=10"group-title="Music Channel"group-title="",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zffJ09c7/Screenshot-2026-07-09-162324.png"group-title="Music Channel"group-title="",Hindi Hit song HD
