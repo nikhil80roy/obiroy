@@ -991,17 +991,16 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel" group-title="",Zoom Music Backup 3
 http://cccoooeee.com/live/2AVDHSB/DP3YEBK/72160.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm Music
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm
-
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316"group-title="Music Channel"group-title="",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest?cb=20240313185236"group-title="Music Channel"group-title="",Zing
 http://103.102.27.173:84/ZING/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music Backup
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Aastha_Bhajan.png/revision/latest?cb=20240320104709"group-title="Music Channel"group-title="",Astha Bajan
@@ -1027,8 +1026,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music Backup
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla HD
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla Backup 3
+http://flowutc.com/live/34FQ94W/64CW3PG/34727.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla HD
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla Backup
