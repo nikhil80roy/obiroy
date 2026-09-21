@@ -4,8 +4,12 @@ https://btv.hridoytv-channel.workers.dev/btv.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National Backup 3
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News Backup 4
+http://198.195.239.50:8095/btv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News 5
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News Backup 3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News Backup
@@ -143,6 +147,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3803.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV
 http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 4
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup
 https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 3
@@ -171,6 +177,8 @@ http://103.102.27.173:84/Independent-TV/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup 4
+https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup
 http://103.102.27.173:84/Desh-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup 3
@@ -183,6 +191,10 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup
 http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup 4
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup 3
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup
@@ -743,6 +755,8 @@ https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK Backup
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
