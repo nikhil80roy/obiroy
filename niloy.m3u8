@@ -966,48 +966,44 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png"group-title="Sport Update",T Sports
 http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1QMX8C/images.png"group-title="Documentary",Discovery HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1QMX8C/images.png"group-title="Documentary",Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Documentary",EPC Parikama
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1QMX8C/images.png"group-title="Documentary",Discovery HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203"group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1QMX8C/images.png"group-title="Documentary",Discovery HD
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711"group-title="Documentary",Love Nature
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz3xCDcj/images.jpg"group-title="Documentary",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest?cb=20210825085349"group-title="Documentary",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g03TmdJP/images.png"group-title="Documentary",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCSBz87T/images.png"group-title="Documentary",National Geography Backup
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCSBz87T/images.png"group-title="Documentary",National Geography
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/YRF_Music_2007.svg/revision/latest?cb=20260131220607"group-title="Music Channel" group-title="",Yrf Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1Q8GxtX/images.png"group-title="Music Channel" group-title="",Yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/YRF_Music_2007.svg/revision/latest?cb=20260131220607"group-title="Music Channel" group-title="",Yrf Music Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1Q8GxtX/images.png"group-title="Music Channel" group-title="",Yrf Music Backup
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zffJ09c7/Screenshot-2026-07-09-162324.png"group-title="Music Channel" group-title="",Hindi Hit Songs
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel" group-title="",Music India Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel" group-title="",Music India Backup
 http://flowutc.com/live/34FQ94W/64CW3PG/72218.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel"group-title="",Music India
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel"group-title="",Music India
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel"group-title="",Music India
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel"group-title="",Music India
 http://103.102.27.173:84/Music-India/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel" group-title="",Zoom Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0wGDxNt/images.png"group-title="Music Channel" group-title="",Zoom Music
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel" group-title="",Zoom Music Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0wGDxNt/images.png"group-title="Music Channel" group-title="",Zoom Music Backup
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel" group-title="",Zoom Music Backup 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0wGDxNt/images.png"group-title="Music Channel" group-title="",Zoom Music Backup 3
 http://cccoooeee.com/live/2AVDHSB/DP3YEBK/72160.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv0yhTBN/images.png"group-title="Music Channel"group-title="",9xm Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
@@ -1029,9 +1025,9 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Aastha_Bhajan.png/revision/latest?cb=20240320104709"group-title="Music Channel"group-title="",Astha Bajan
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9hLQ2md/images.png"group-title="Music Channel"group-title="",Songeet Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9hLQ2md/images.png"group-title="Music Channel"group-title="",Songeet Bhojpuri Backup
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
@@ -1043,24 +1039,24 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zffJ09c7/Screenshot-2026-07-09-162324.png"group-title="Music Channel"group-title="",Hindi Hit song HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMnKypLt/Screenshot-2026-07-09-164709.jpg"group-title="Music Channel"group-title="",Mon Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sj0S2kWw/images.jpg"group-title="Music Channel"group-title="",Mon Bangla HD
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="Music Channel"group-title="",Mon Bangla2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sj0S2kWw/images.jpg"group-title="Music Channel"group-title="",Mon Bangla Backup
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/montv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music HD
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music Backup
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla Backup 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1k81nPZ/images.png"group-title="Music Channel"group-title="",Songeet Bangla Backup 3
 http://flowutc.com/live/34FQ94W/64CW3PG/34727.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1k81nPZ/images.png"group-title="Music Channel"group-title="",Songeet Bangla HD
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1k81nPZ/images.png"group-title="Music Channel"group-title="",Songeet Bangla Backup
 http://103.102.27.173:84/Sangeet-Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",Dhoom Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YStSzrTR/images.jpg"group-title="Music Channel"group-title="",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",Dhoom Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YStSzrTR/images.jpg"group-title="Music Channel"group-title="",Dhoom Music
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWM8TVpb/Screenshot-2026-08-03-093525.jpg"group-title="Music Channel"group-title="",Bangla Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
