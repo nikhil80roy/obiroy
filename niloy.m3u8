@@ -1007,7 +1007,7 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel" group-title="",Zoom Music Backup 3
 http://cccoooeee.com/live/2AVDHSB/DP3YEBK/72160.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm Jalwa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv0yhTBN/images.png"group-title="Music Channel"group-title="",9xm Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
@@ -1017,6 +1017,8 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest?cb=20240313185236"group-title="Music Channel"group-title="",Zing
 http://103.102.27.173:84/ZING/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtWHY4xC/images.jpg"group-title="Music Channel"group-title="",Zing Backup
+http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music Backup
