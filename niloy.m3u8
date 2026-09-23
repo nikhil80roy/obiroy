@@ -169,6 +169,8 @@ http://103.102.27.173:84/CHANNEL-9-HD/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPRhChXp/images.png"group-title="Bangla BD" group-title="",Star news Backup
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPRhChXp/images.png"group-title="Bangla BD" group-title="",Star news Backup 3
+http://103.102.27.173:84/STAR-NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent TV
 http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent Backup
@@ -227,6 +229,8 @@ http://103.151.60.162:2122/play/a0f5/index.m3u8
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GgkHQM/images.png"group-title="Bangla BD" group-title="",Channel 9
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GgkHQM/images.png"group-title="Bangla BD" group-title="",Channel 9 Backup
+http://103.102.27.173:84/CHANNEL-9-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GgkHQM/images.png"group-title="Bangla BD" group-title="",Channel Backup
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Mz80KD/images.jpg"group-title="Bangla BD" group-title="",Channel S
@@ -263,6 +267,12 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 https://media.amarnet.net/SOMOY_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90s3Xywv/images.jpg"group-title="Bangla BD" group-title="",Somoy TV Backup
 https://tvsen5.aynascope.net/somoytv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90s3Xywv/images.jpg"group-title="Bangla BD" group-title="",Somoy TV Backup 3
+http://103.102.27.173:84/SOMOY-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85mZsZNN/images.jpg"group-title="Bangla BD" group-title="",Prime TV
+http://103.102.27.173:84/Prime-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FnJ4R5N/images.jpg"group-title="Bangla BD" group-title="",Channel 16
+http://103.102.27.173:84/Channel-16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama Backup
@@ -796,7 +806,7 @@ http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest/scale-to-width-down/1000?cb=20221026151354"group-title="Hindi channel" group-title="",Sony Max2 HD
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Sony_SAB_HD_2022.jpg/revision/latest?cb=20260311075842"group-title="Hindi channel" group-title="",Sony SAB HD
-https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
+http://103.102.27.173:84/SONY-SAB-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035"group-title="Hindi channel" group-title="",Star Gold
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9375.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035"group-title="Hindi channel" group-title="",Star Gold
