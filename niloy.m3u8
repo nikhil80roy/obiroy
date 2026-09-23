@@ -811,6 +811,8 @@ http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5srAuyyXf0ZTF2WZ3ZUh438DnsQXj3aquv1nVrBxBQ&s=10"group-title="Hindi channel" group-title="",All Time Movies
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5srAuyyXf0ZTF2WZ3ZUh438DnsQXj3aquv1nVrBxBQ&s=10"group-title="Hindi channel" group-title="",All Time Movies Backup
+https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Cineplex
@@ -831,6 +833,8 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick bangla Backup
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/wow_kidz_hindi.jpg"group-title="Carton" group-title="",WOW WID
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg/revision/latest?cb=20180703174511"group-title="Carton" group-title="",Motu Patlu
@@ -1010,7 +1014,9 @@ https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Aastha_Bhajan.png/revision/latest?cb=20240320104709"group-title="Music Channel"group-title="",Astha Bajan
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri
-https://cdn-4.pishow.tv/live/1293/master.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri Backup
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song Backup
