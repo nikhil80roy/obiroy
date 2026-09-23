@@ -199,6 +199,8 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup 5
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZgC7dJZ/images.jpg"group-title="Bangla BD" group-title="",Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup 3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24
