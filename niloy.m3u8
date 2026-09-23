@@ -275,6 +275,8 @@ https://tvsen5.aynascope.net/somoytv/mono.m3u8
 http://103.102.27.173:84/SOMOY-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85mZsZNN/images.jpg"group-title="Bangla BD" group-title="",Prime TV
 http://103.102.27.173:84/Prime-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCr1JZJf/images.jpg"group-title="Bangla BD" group-title="",Songeet Bangla HD
+https://media.amarnet.net/Sangeet_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FnJ4R5N/images.jpg"group-title="Bangla BD" group-title="",Channel 16
 http://103.102.27.173:84/Channel-16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama
