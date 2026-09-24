@@ -435,6 +435,8 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla" group-title="",Zee Bangla
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
+EXTINF:-1 tvg-logo="https://i.postimg.cc/QMbYZx6c/images.jpg"group-title="Indian Bangla" group-title="",Khusbu Bangla HD
+https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/68.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Indian Bangla" group-title="",ZEE BANGLA CINEMA HD 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403"group-title="Indian Bangla" group-title="",Enter Bangla
