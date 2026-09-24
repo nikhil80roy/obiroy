@@ -850,6 +850,8 @@ https://media.amarnet.net/sonymaxhd/index.m3u8
 http://103.102.27.173:84/SONY-MAX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max 2
 http://103.159.180.34:5001/live/3418.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C56ZXtnG/images.jpg"group-title="Hindi channel" group-title="",Sony Max 1
+http://103.102.27.173:84/Sony-Max-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
@@ -884,6 +886,8 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/98908.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex
 http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex Backup
+http://103.102.27.173:84/COLORS-CINEPLEX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",Zee Cinema HD
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",Zee Cinema HD
