@@ -117,6 +117,8 @@ https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/37.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsQ2bPQr/images.png"group-title="Bangla BD" group-title="",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsQ2bPQr/images.png"group-title="Bangla BD" group-title="",Gazi TV Backup
+https://app.ncare.live/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsQ2bPQr/images.png"group-title="Bangla BD" group-title="",Gazi TV Backup 2
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
@@ -291,6 +293,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 3
 http://103.102.27.173:84/global-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 4
+https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV
 http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup
@@ -508,7 +512,7 @@ http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png/revision/latest/scale-to-width-down/1000?cb=20230126194444"group-title="Indian Bangla" group-title="",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Tara_TV.jpeg/revision/latest?cb=20191222185921"group-title="Indian Bangla" group-title="",Tara Bangla
-http://103.180.212.191:3500/live/1612.m3u8
+https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla" group-title="",Zee bangla cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla" group-title="",Zee bangla cinema HD
