@@ -74,6 +74,8 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRXYPSQ/images.jpg"group-title="Bangla BD" group-title="",Deepto TV HD Backup
 https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/17.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRXYPSQ/images.jpg"group-title="Bangla BD" group-title="",Deepto TV HD Backup 3
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjPqFxnT/images.png"group-title="Bangla BD" group-title="",Ekushey TV HD
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjPqFxnT/images.png"group-title="Bangla BD" group-title="",Ekushey TV Backup
@@ -187,6 +189,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.102.27.173:84/CHANNEL-9-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvY6Mpfd/images.png"group-title="Bangla BD" group-title="",Channel 1 4K
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvY6Mpfd/images.png"group-title="Bangla BD" group-title="",Channel 1 4K Backup
+https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPRhChXp/images.png"group-title="Bangla BD" group-title="",Star news Backup
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPRhChXp/images.png"group-title="Bangla BD" group-title="",Star news Backup 3
@@ -465,8 +469,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla" group-title="",Sun Bangla
 http://103.102.27.173:84/SUN-BANGLA-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla" group-title="",Sun Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla" group-title="",Sun Bangla Backup 3
 http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla" group-title="",Sun Bangla Backup
+https://box.bbaria.net/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla" group-title="",Colours Bangla Cinema
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla" group-title="",Colours Bangla HD
