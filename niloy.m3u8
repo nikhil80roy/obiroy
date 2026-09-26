@@ -509,6 +509,8 @@ https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/3.m3u8
 https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/42.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1ZX7pH/images.jpg"group-title="Indian Bangla" group-title="",Bang Plus+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wdJh6dc/images.jpg"group-title="Indian Bangla" group-title="",Amr Bangla HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq2rnHX6/images.jpg"group-title="Indian Bangla" group-title="",Ruposi Bangla HD
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq2rnHX6/images.jpg"group-title="Indian Bangla" group-title="",Ruposi Bangla HD
@@ -1079,6 +1081,8 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0wGDxNt/images.png"group-title="Music Channel" group-title="",Zoom Music Backup 3
 http://cccoooeee.com/live/2AVDHSB/DP3YEBK/72160.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv0yhTBN/images.png"group-title="Music Channel"group-title="",9xm Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv0yhTBN/images.png"group-title="Music Channel"group-title="",9xm Jalwa Backup
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
