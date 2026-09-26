@@ -249,6 +249,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup 3
 http://103.102.27.173:84/NEWS24-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup 5
+https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/28.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24 Bakcup 4
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2kTxjdv/images.jpg"group-title="Bangla BD" group-title="",Anando TV 
@@ -295,6 +297,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/24.m3u8
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna Backup 4
 http://103.102.27.173:84/Jamuna-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna Backup 5
+https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/24.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna TV Backup
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV
@@ -440,7 +444,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/425.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup 2
-
+https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/27.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup 3
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/171505.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla 
