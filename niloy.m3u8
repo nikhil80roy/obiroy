@@ -96,6 +96,8 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nL4hSMfb/images.jpg"group-title="Bangla BD" group-title="",NTV HD
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0MMdbyw/images.jpg"group-title="Bangla BD" group-title="",Green TV HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nL4hSMfb/images.jpg"group-title="Bangla BD" group-title="",NTV Backup
 https://playztv-apps.pages.dev/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon TV
@@ -904,6 +906,8 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick bangla Backup
 http://103.185.24.134:3001/NICK/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Backup 3
+http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/wow_kidz_hindi.jpg"group-title="Carton" group-title="",WOW WID
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg/revision/latest?cb=20180703174511"group-title="Carton" group-title="",Motu Patlu
