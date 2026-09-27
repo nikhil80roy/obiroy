@@ -889,14 +889,6 @@ http://103.102.27.173:84/SONY-MAX-HD/index.m3u8
 http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C56ZXtnG/images.jpg"group-title="Hindi channel" group-title="",Sony Max 1
 http://103.102.27.173:84/Sony-Max-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest/scale-to-width-down/1000?cb=20221026151354"group-title="Hindi channel" group-title="",Sony Max2 HD
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4hkQRGH/images.jpg"group-title="Hindi channel" group-title="",Sony SAB HD
 http://103.102.27.173:84/SONY-SAB-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NMmXLDG/images.jpg"group-title="Hindi channel" group-title="",Star Gold
@@ -917,31 +909,31 @@ https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N035SKfF/images.jpg"group-title="Hindi channel" group-title="",All Time Movies Backup
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLQFyqCR/images.jpg"group-title="Hindi channel" group-title="",Colors Complex
 https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Cineplex
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLQFyqCR/images.jpg"group-title="Hindi channel" group-title="",Colors Cineplex
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/98908.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLQFyqCR/images.jpg"group-title="Hindi channel" group-title="",Colors Complex
 http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLQFyqCR/images.jpg"group-title="Hindi channel" group-title="",Colors Complex Backup
 http://103.102.27.173:84/COLORS-CINEPLEX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Zee_Action_%282025%29.svg/revision/latest?cb=20250608132203"group-title="Hindi channel" group-title="",Zee Action
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Zee_Action_%282025%29.svg/revision/latest?cb=20250608132203"group-title="Hindi channel" group-title="",Zee Action
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action Backup
 http://107.167.16.138/zeeaction/index.m3u8?token=test
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Dangal Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv057B9s/images.jpg"group-title="Hindi channel" group-title="",Dangal Tv
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Goldmines tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0ZpcsCM/images.jpg"group-title="Hindi channel" group-title="",Goldmines tv
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick bangla Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla Backup
 http://103.185.24.134:3001/NICK/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Backup 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTYWWTxG/images.jpg"group-title="Carton" group-title="",Sonic Backup 3
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/wow_kidz_hindi.jpg"group-title="Carton" group-title="",WOW WID
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
