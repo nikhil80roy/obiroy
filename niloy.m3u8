@@ -1069,6 +1069,8 @@ https://media.amarnet.net/DISCOVERY_HD/index.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz3xCDcj/images.jpg"group-title="Documentary",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz3xCDcj/images.jpg"group-title="Documentary",Love Nature Backup
+https://robitv.com/lps/http://190.93.224.42/LOVE-NATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g03TmdJP/images.png"group-title="Documentary",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCSBz87T/images.png"group-title="Documentary",National Geography Backup
