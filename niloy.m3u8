@@ -340,9 +340,9 @@ http://170.83.49.66:8083/AXNHD/index.m3u8
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6Zwn1qx/images.jpg"group-title="English Movie" group-title="",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjXrkYQ8/Sony-Pix-logo.jpg"group-title="English Movie" group-title="",SONY Pix TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV
 http://vca.easy747.com:80/live/0578694/1295K6K/72148.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjXrkYQ8/Sony-Pix-logo.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup
 http://live.balajibroadband.com:3500/live/762.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies
 http://202.70.146.135:8000/play/a06r/index.m3u8
