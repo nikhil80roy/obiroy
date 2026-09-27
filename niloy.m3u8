@@ -1028,6 +1028,8 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
 https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports Backup
+https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/PTV_SPORTS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 http://27.124.71.27/Willow_Extra/index.m3u8
 
