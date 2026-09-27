@@ -333,6 +333,30 @@ http://103.102.27.173:84/Channel-16/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama Backup
 https://media.amarnet.net/G_series/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxsFxv5m/images.png"group-title="English Movie" group-title="",AXN
+http://170.83.49.66:8083/AXNHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXw8J2B/images.png"group-title="English Movie" group-title="",AXN Black
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6Zwn1qx/images.jpg"group-title="English Movie" group-title="",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjXrkYQ8/Sony-Pix-logo.jpg"group-title="English Movie" group-title="",SONY Pix TV
+http://vca.easy747.com:80/live/0578694/1295K6K/72148.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjXrkYQ8/Sony-Pix-logo.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup
+http://live.balajibroadband.com:3500/live/762.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DyTBkh/images.jpg"group-title="English Movie" group-title="",Action Hollywood movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Boishaki TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/BTV_Chattogram_Logo.svg"group-title="jagobd" group-title="",BTV Chattagram HD
@@ -871,11 +895,11 @@ http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C56ZXtnG/images.jpg"group-title="Hindi channel" group-title="",Sony Max 1
 http://103.102.27.173:84/Sony-Max-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
-https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
-http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrOJETUg1OBiSPie60xQbVS9xkyfA0yi1kT9EYwPGvw&s=10"group-title="Hindi channel" group-title="",AXN
-http://170.83.49.66:8083/AXNHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest/scale-to-width-down/1000?cb=20221026151354"group-title="Hindi channel" group-title="",Sony Max2 HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4hkQRGH/images.jpg"group-title="Hindi channel" group-title="",Sony SAB HD
