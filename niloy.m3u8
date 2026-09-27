@@ -348,8 +348,8 @@ http://live.balajibroadband.com:3500/live/762.m3u8
 http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DyTBkh/images.jpg"group-title="English Movie" group-title="",Action Hollywood movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
 #EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
 
 #EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
@@ -852,18 +852,10 @@ http://103.157.248.140:8000/play/a01d/index.m3u8
 https://media.amarnet.net/AndPictureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-22-3376bdaa-4daa-48d9-a73a-2416ca0d42a9.jpg"group-title="Hindi channel" group-title="",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies HD
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98842.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png/revision/latest?cb=20221023221602"group-title="Hindi channel" group-title="",Sony Pix
-https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png/revision/latest?cb=20221023221602"group-title="Hindi channel" group-title="",Sony Pix
-http://119.156.228.231:9983/stream/channelid/954608593
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnqcjPoamH4rryKDZazc2T3yjzaT01O_kzBAe-s2xqmA&s=10"group-title="Hindi channel" group-title="",Sheemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony TV
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK Backup
