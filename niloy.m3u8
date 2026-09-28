@@ -146,6 +146,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/429.ts
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV Backup 5
 http://livetv.akr4m.com:8080/bdtv/restrem/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV Backup 6
+http://103.102.27.173:84/Boishaki-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup
