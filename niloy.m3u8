@@ -845,7 +845,7 @@ http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Entertainment Backup 2
 https://media.amarnet.net/SonyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535"group-title="Hindi channel" group-title="",Shemaroo tv
-https://cdn-3.pishow.tv/live/230/master.m3u8
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture
 http://103.157.248.140:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture
@@ -883,6 +883,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9440.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhf12rzb/images.jpg"group-title="Hindi channel" group-title="",Sony Max HD Backup
 https://media.amarnet.net/sonymaxhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhf12rzb/images.jpg"group-title="Hindi channel" group-title="",Sony Max HD Backup 3
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhf12rzb/images.jpg"group-title="Hindi channel" group-title="",Sony Max HD Backup 2
 http://103.102.27.173:84/SONY-MAX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max 2
@@ -920,6 +922,10 @@ http://103.102.27.173:84/COLORS-CINEPLEX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 3
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
