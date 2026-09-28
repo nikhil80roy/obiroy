@@ -166,6 +166,8 @@ https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA Backup 3
 http://103.102.27.173:84/SA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV 4
+https://media.amarnet.net/sa_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA Backup 2
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brB6Xyc6/images.jpg"group-title="Bangla BD" group-title="",Nexus TV
@@ -243,6 +245,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News Backup
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News Backup 4
+https://media.amarnet.net/DBC_News/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News Backup 3
 https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV HD
@@ -369,6 +373,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
 https://tinyurl.com/w6dvsnxb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD
 https://tinyurl.com/bdf5nwyt
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD Backup 3
+https://media.amarnet.net/StarMoviesHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD Backup
 https://media.amarnet.net/StarMoviesHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMSwzwgz/images.png"group-title="English Movie" group-title="",STAR Movies Select HD
@@ -856,6 +862,8 @@ https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Entertainment
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9885.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSLvDWc/images.jpg"group-title="Hindi channel" group-title="",Star Plus HD
+https://media.amarnet.net/StarPlusHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Entertainment Backup
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Entertainment Backup 2
