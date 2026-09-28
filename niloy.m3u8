@@ -357,6 +357,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
 https://tinyurl.com/w6dvsnxb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD
 https://tinyurl.com/bdf5nwyt
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD Backup
+https://media.amarnet.net/StarMoviesHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMSwzwgz/images.png"group-title="English Movie" group-title="",STAR Movies Select HD
 https://tinyurl.com/4eecmftx
 #EXTINF:-1 tvg-logo=""group-title="English Movie" group-title="",
@@ -847,7 +849,7 @@ https://media.amarnet.net/SonyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535"group-title="Hindi channel" group-title="",Shemaroo tv
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture
-http://103.157.248.140:8000/play/a01d/index.m3u8
+https://media.amarnet.net/AndPictureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 http://103.157.248.140:8000/play/a01d/index.m3u8
