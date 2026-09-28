@@ -359,9 +359,9 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://media.amarnet.net/G_series/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzQxn7Zk/images.jpg"group-title="Bangla BD" group-title="",Unmochon TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxsFxv5m/images.png"group-title="English Movie" group-title="",AXN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCjvCd7Y/images.png"group-title="English Movie" group-title="",AXN
 http://170.83.49.66:8083/AXNHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXw8J2B/images.png"group-title="English Movie" group-title="",AXN Black
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8t1cS1z/images.png"group-title="English Movie" group-title="",AXN Black
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6Zwn1qx/images.jpg"group-title="English Movie" group-title="",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
