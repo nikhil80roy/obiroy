@@ -1044,6 +1044,8 @@ http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports Backup
+http://103.102.27.173:84/PTV-SPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
 https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
@@ -1070,7 +1072,7 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/745202.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png"group-title="Sport Update",T Sports
 http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports
-
+http://103.102.27.173:84/Ten-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
