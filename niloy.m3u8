@@ -200,6 +200,8 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV Backup 3
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3803.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV Backup 5
+http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV
 http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 4
@@ -857,6 +859,8 @@ https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie Backup
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Pitaara_2.jpeg/revision/latest?cb=20191219155318"group-title="Hindi channel" group-title="",Pitara Movies
@@ -891,13 +895,15 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK Backup
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
-https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png/revision/latest?cb=20210514114903"group-title="Hindi channel" group-title="",Dangal
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcfJRvnstsaMulboBxG7darReMm62g83Z_lRbMTTRww&s=10"group-title="Hindi channel" group-title="",Goldmine Movies 
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcfJRvnstsaMulboBxG7darReMm62g83Z_lRbMTTRww&s=10"group-title="Hindi channel" group-title="",Goldmine Movies Backup
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcfJRvnstsaMulboBxG7darReMm62g83Z_lRbMTTRww&s=10"group-title="Hindi channel" group-title="",Goldmine Movies
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcfJRvnstsaMulboBxG7darReMm62g83Z_lRbMTTRww&s=10"group-title="Hindi channel" group-title="",Goldmine Movies
@@ -1126,6 +1132,8 @@ https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xia
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel" group-title="",Music India Backup
 http://flowutc.com/live/34FQ94W/64CW3PG/72218.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel" group-title="",Music India Backup 2
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel"group-title="",Music India
 http://103.102.27.173:84/Music-India/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0wGDxNt/images.png"group-title="Music Channel" group-title="",Zoom Music
