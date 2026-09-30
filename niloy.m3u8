@@ -548,6 +548,8 @@ http://103.102.27.173:84/SUN-BANGLA-HD/index.m3u8
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7p5228V/images.jpg"group-title="Indian Bangla" group-title="",Sun Bangla Backup 4
 https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7p5228V/images.jpg"group-title="Indian Bangla" group-title="",Sun Bangla Backup 5
+https://ireentv.pages.dev/Sun_Bangla_Server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7p5228V/images.jpg"group-title="Indian Bangla" group-title="",Sun Bangla Backup
 https://box.bbaria.net/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dWKPtHh/images.jpg"group-title="Indian Bangla" group-title="",Colours Bangla HD
