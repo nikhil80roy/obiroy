@@ -510,6 +510,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",PrimeTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Vision HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/425.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup 2
@@ -1076,8 +1078,16 @@ https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1rSDw3M/images.jpg"group-title="Sport Update",Star Sports SL 1
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1BTrM8/images.jpg"group-title="Sport Update",Star Sports SL 2
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxbnRfcZ/images.jpg"group-title="Sport Update",Sony Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvV4t7nL/images.jpg"group-title="Sport Update",Sony Ten 2
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtfSZ09q/images.jpg"group-title="Sport Update",Sony Ten 5
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
 http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
