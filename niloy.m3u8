@@ -1005,6 +1005,8 @@ http://107.167.16.138/zeeaction/index.m3u8?token=test
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0ZpcsCM/images.jpg"group-title="Hindi channel" group-title="",Goldmines tv
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yW4C3Xzt/images.jpg"group-title="Hindi channel" group-title="",Zee Bollywood
+https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla Backup 3
@@ -1143,6 +1145,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/745202.ts
 http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports
 http://103.102.27.173:84/Ten-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports Backup
+http://103.151.60.162:2122/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
