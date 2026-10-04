@@ -234,6 +234,8 @@ http://103.102.27.173:84/CHANNEL-9-HD/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvY6Mpfd/images.png"group-title="Bangla BD" group-title="",Channel 1 4K Backup
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvY6Mpfd/images.png"group-title="Bangla BD" group-title="",Channel 1 4K Backup 3
+https://zibo1.tvhunter.top/onebd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPRhChXp/images.png"group-title="Bangla BD" group-title="",Star news Backup
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPRhChXp/images.png"group-title="Bangla BD" group-title="",Star news Backup 3
@@ -543,9 +545,9 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x17KfjNr/images.png"group-title="Indian Bangla" group-title="",Zee Bangla HD Backup
 https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/35.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMbYZx6c/images.jpg"group-title="Indian Bangla" group-title="",Khusbo Bangla
-https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMbYZx6c/images.jpg"group-title="Indian Bangla" group-title="",Khusbo Bangla
-https://cdn-4.pishow.tv/live/1473/master.m3u8
+https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/68.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMbYZx6c/images.jpg"group-title="Indian Bangla" group-title="",Khusbo Bangla Backup
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfrGS44Q/images.jpg"group-title="Indian Bangla" group-title="",Star Jalsa HD
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8540.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfrGS44Q/images.jpg"group-title="Indian Bangla" group-title="",Star Jalsa HD Backup 2
@@ -727,6 +729,10 @@ https://pixeldrain.com/api/file/uTv3WeVb?download
 https://pixeldrain.dev/api/file/JcRnZK5r?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq5FiswTgmWVPpmGGqbSHMbRR3O.jpg"group-title="Bangladeshi Movie new" group-title="",Antor atta 
 https://pixeldrain.com/api/file/EMJGivLB?download
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJZXnNSk/images.jpg"group-title="Bangladeshi Movie new" group-title="",Ki kora Bolbo Tumai
+https://icccdlam.marvel.bio/iccftps14/iccftps14sasd6/Movies/Bangla/Kolkata/Ki%20Kore%20Toke%20Bolbo%20(2016)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJL4jXmK/images.jpg"group-title="Bangladeshi Movie new" group-title="",Bhanupriya Bhoot er Hotel
+https://icccdlam.marvel.bio/iccftps14/iccftps14sasd5/Movies/Bangla/Kolkata/Bhanupriya%20Bhooter%20Hotel%20
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZmZDI5ZDktYjVhNy00MjZkLTgzYWItM2QxMWQxMzVlNzE5XkEyXkFqcGc@._V1_.jpg"group-title="Bangladeshi Movie new" group-title="",Chalbaaz 2018
 https://pixeldrain.dev/api/file/a1HjvZcr?download
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv99nbEdJUVkhyfV5IWck7a20jAscRm4QizKx7DZozXQ&s=10"group-title="Bangladeshi Movie new" group-title="",Antorjal
@@ -1035,6 +1041,8 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/207.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Bangla
 http://live.balajibroadband.com:3500/live/1345.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Bangla Backup
+http://198.195.239.50:8095/SONIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 1
 http://66.102.126.10:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 1
@@ -1082,7 +1090,7 @@ http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport HD 7
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1rSDw3M/images.jpg"group-title="Sport Update",Star Sports SL 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
