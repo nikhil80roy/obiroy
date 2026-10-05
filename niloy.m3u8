@@ -546,6 +546,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla Backup 3
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla Backup 5
+http://livetv.akr4m.com:8080/bdtv/restrem/58
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x17KfjNr/images.png"group-title="Indian Bangla" group-title="",Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x17KfjNr/images.png"group-title="Indian Bangla" group-title="",Zee Bangla HD Backup
@@ -906,10 +908,14 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9885.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSLvDWc/images.jpg"group-title="Hindi channel" group-title="",Star Plus HD
 https://media.amarnet.net/StarPlusHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSLvDWc/images.jpg"group-title="Hindi channel" group-title="",Star Plus HD Backup
+http://livetv.akr4m.com:8080/bdtv/restrem/62
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Entertainment Backup
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Entertainment Backup 2
 https://media.amarnet.net/SonyHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Entertainment Backup 3
+http://livetv.akr4m.com:8080/bdtv/restrem/59
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535"group-title="Hindi channel" group-title="",Shemaroo tv
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture
@@ -947,6 +953,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459"group-title="Hindi channel" group-title="",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459"group-title="Hindi channel" group-title="",Dangal Backup
+http://livetv.akr4m.com:8080/bdtv/restrem/64
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/DD_National_HD.png/revision/latest?cb=20190103063804"group-title="Hindi channel" group-title="",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
@@ -1005,6 +1013,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 5
+http://livetv.akr4m.com:8080/bdtv/restrem/63
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action Backup
@@ -1171,6 +1181,8 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1QMX8C/images.png"group-title="Documentary",Discovery Backup
 https://media.amarnet.net/DISCOVERY_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1QMX8C/images.png"group-title="Documentary",Discovery Backup 4
+http://livetv.akr4m.com:8080/bdtv/restrem/51
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1QMX8C/images.png"group-title="Documentary",Discovery HD
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz3xCDcj/images.jpg"group-title="Documentary",Love Nature
@@ -1207,6 +1219,8 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 http://cccoooeee.com/live/2AVDHSB/DP3YEBK/72160.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv0yhTBN/images.png"group-title="Music Channel"group-title="",9xm Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv0yhTBN/images.png"group-title="Music Channel"group-title="",9xm Jalwa Backup 3
+http://livetv.akr4m.com:8080/bdtv/restrem/70
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv0yhTBN/images.png"group-title="Music Channel"group-title="",9xm Jalwa Backup
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm
