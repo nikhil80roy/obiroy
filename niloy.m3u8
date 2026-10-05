@@ -122,6 +122,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://playztv-apps.pages.dev/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup 5
+http://livetv.akr4m.com:8080/bdtv/restrem/20
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup 4
 http://103.102.27.173:84/Ekhon-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup TV
