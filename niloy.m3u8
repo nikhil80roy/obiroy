@@ -1157,8 +1157,6 @@ https://playztv-apps.pages.dev/willow/index.m3u8
 https://media.amarnet.net/ASportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNFZKZB/images.jpg"group-title="Sport Update",United 8 Sport 2 HD 
 http://103.114.11.37:8081/Unite8-sports-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png"group-title="Sport Update",T Sports
 http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports
