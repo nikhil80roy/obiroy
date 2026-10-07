@@ -384,6 +384,8 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://media.amarnet.net/G_series/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzQxn7Zk/images.jpg"group-title="Bangla BD" group-title="",Unmochon TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxSRsh6C/images.jpg"group-title="Bangla BD" group-title="",Rana Cable TV
+https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCjvCd7Y/images.png"group-title="English Movie" group-title="",AXN
 http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8t1cS1z/images.png"group-title="English Movie" group-title="",AXN Black
