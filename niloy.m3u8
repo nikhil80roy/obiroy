@@ -937,6 +937,8 @@ https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks
 http://103.157.248.140:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture HD Backup 3
 http://198.195.239.50:8095/ANT.PICTURS.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture HD Backup 4
+https://media.amarnet.net/AndPictureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28sFdSnj/images.jpg"group-title="Hindi channel" group-title="",& Picture Backup
 https://media.amarnet.net/AndPictureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-22-3376bdaa-4daa-48d9-a73a-2416ca0d42a9.jpg"group-title="Hindi channel" group-title="",South Station
@@ -998,7 +1000,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest/scale-to-width-down/1000?cb=20230126170355"group-title="Hindi channel" group-title="",Goldmine Movies
 http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5NJqWCX/images.jpg"group-title="Hindi channel" group-title="",GOLDMINESBOLLYWOOD
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+https://media.amarnet.net/amrtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N035SKfF/images.jpg"group-title="Hindi channel" group-title="",All Time Movies
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N035SKfF/images.jpg"group-title="Hindi channel" group-title="",All Time Movies Backup
