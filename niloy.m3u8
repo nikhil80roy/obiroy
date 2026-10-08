@@ -896,6 +896,10 @@ https://cdn91.rongintv.workers.dev/ch/355544
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/355544.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri Backup
 https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri Backup 4
+https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri Plus Backup
+http://51.75.127.199:3141/b4ubhojpuri/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri NEW
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
@@ -1264,9 +1268,9 @@ https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Aastha_Bhajan.png/revision/latest?cb=20240320104709"group-title="Music Channel"group-title="",Astha Bajan
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9hLQ2md/images.png"group-title="Music Channel"group-title="",Songeet Bhojpuri
-https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+https://cdn.pishow.tv/ott/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9hLQ2md/images.png"group-title="Music Channel"group-title="",Songeet Bhojpuri Backup
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song Backup
