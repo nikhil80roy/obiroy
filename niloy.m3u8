@@ -632,6 +632,12 @@ https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sD7WdMtQ/images.png"group-title="Indian Bangla" group-title="",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD7WdMtQ/images.png"group-title="Indian Bangla" group-title="",R Bangla Backup 2
+https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD7WdMtQ/images.png"group-title="Indian Bangla" group-title="",R Bangla Backup 3
+https://cdn.pishow.tv/ott/live/270/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65hZG2mx/images.jpg"group-title="Indian Bangla" group-title="",Raatdin Bangla
+https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8TSxw6m/images.jpg"group-title="Indian Bangla" group-title="",Tara Bangla
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""https://i.postimg.cc/X7YF9B9D/images.jpg"group-title="Indian Bangla" group-title="",Zee bangla cinema
@@ -640,6 +646,12 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/171466.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk6RqFBN/images.jpg"group-title="Indian Bangla" group-title="",TV 9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk6RqFBN/images.jpg"group-title="Indian Bangla" group-title="",TV 9 Bangla Backup
+https://mumbai-edge.smartplaytv.in/Tv9Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk6RqFBN/images.jpg"group-title="Indian Bangla" group-title="",TV 9 Bangla Backup 3
+https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk6RqFBN/images.jpg"group-title="Indian Bangla" group-title="",TV 9 Bangla Backup 4
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla" group-title="",Sony Athe
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvQHkNMX/images.png"group-title="Indian Bangla" group-title="",Akash Ath
