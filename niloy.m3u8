@@ -1215,6 +1215,8 @@ http://103.102.27.173:84/Ten-Sports/index.m3u8
 http://103.151.60.162:2122/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnBccRCT/images.jpg"group-title="Documentary",BBC Earth HD
+https://cdn91.rongintv.workers.dev/ch/222
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD Backup
