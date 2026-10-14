@@ -408,6 +408,10 @@ https://media.amarnet.net/G_series/index.m3u8
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxSRsh6C/images.jpg"group-title="Bangla BD" group-title="",Rana Cable TV
 https://ranacable.duckdns.org/RanaMovie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx3sD4Tr/images.jpg"group-title="Bangla BD" group-title="",Sami TV HD
+http://103.238.115.159:8080/samitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwjXgSjC/images.png"group-title="Bangla BD" group-title="",Greent Entertenment HD
+http://bosstv.click:8080/live/18012689/77561563/86118.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTmPJLSt/download.png"group-title="English Movie" group-title="",AXN
 http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTmPJLSt/download.png"group-title="English Movie" group-title="",AXN Black
