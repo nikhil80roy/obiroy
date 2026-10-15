@@ -198,14 +198,14 @@ https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brB6Xyc6/images.jpg"group-title="Bangla BD" group-title="",Nexus Backup 2
 http://103.102.27.173:84/Nexus-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports TV
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports FHD
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
-http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+https://robitv.com/lps/http://116.204.149.16/T_SportsFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup 3
-http://103.102.27.173:84/tvfeed1002/index.m3u8
+https://media.amarnet.net/tspors/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
-https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZKKq4FP/images.jpg"group-title="Bangla BD" group-title="",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV HD
