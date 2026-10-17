@@ -604,6 +604,8 @@ http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfrGS44Q/images.jpg"group-title="Indian Bangla" group-title="",Star Jalsa HD Backup 6
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfrGS44Q/images.jpg"group-title="Indian Bangla" group-title="",Star Jalsa HD Backup 7
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7p5228V/images.jpg"group-title="Indian Bangla" group-title="",Sun Bangla
 http://103.102.27.173:84/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7p5228V/images.jpg"group-title="Indian Bangla" group-title="",Sun Bangla Backup 3
@@ -624,10 +626,8 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dWKPtHh/images.jpg"group-title="Indian Bangla" group-title="",Colours Bangla
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/171507.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zH4R6Hp/images.png"group-title="Indian Bangla" group-title="",Colours Bangla Cinema
-https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zH4R6Hp/images.png"group-title="Indian Bangla" group-title="",Colours Bangla Cinema Backup
-https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/42.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zH4R6Hp/images.png"group-title="Indian Bangla" group-title="",Colours Bangla Cinema Backup 3
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1ZX7pH/images.jpg"group-title="Indian Bangla" group-title="",Bang Plus+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wdJh6dc/images.jpg"group-title="Indian Bangla" group-title="",Amr Bangla HD
@@ -646,6 +646,8 @@ http://66.102.126.10:8000/play/a015/index.m3u8
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dWKPtHh/images.jpg"group-title="Indian Bangla" group-title="",Colours Bangla HD
 http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dWKPtHh/images.jpg"group-title="Indian Bangla" group-title="",Colours Bangla Backup
+http://103.114.11.37:8081/Colors-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sD7WdMtQ/images.png"group-title="Indian Bangla" group-title="",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sD7WdMtQ/images.png"group-title="Indian Bangla" group-title="",R Bangla Backup 2
@@ -681,7 +683,7 @@ http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfLX2Qfm/images.jpg"group-title="Indian Bangla" group-title="",Sony Athe Backup
 https://media.amarnet.net/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfLX2Qfm/images.jpg"group-title="Indian Bangla" group-title="",Sony Athe
-
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5BrGBqM/images.png"group-title="Indian Bangla" group-title="",Zee 24 Ghanta
 https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPU0QGXdK26qDG886gstiP5HQPY.jpg"group-title="Bangladeshi Movie new" group-title="",Projapati 2
@@ -952,7 +954,7 @@ https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 http://51.75.127.199:3141/b4ubhojpuri/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri NEW
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri 5
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132124.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
@@ -978,6 +980,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9885.ts
 https://media.amarnet.net/StarPlusHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSLvDWc/images.jpg"group-title="Hindi channel" group-title="",Star Plus HD Backup
 http://livetv.akr4m.com:8080/bdtv/restrem/62
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSLvDWc/images.jpg"group-title="Hindi channel" group-title="",Star Plus HD Backup 3
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Televison HD Backup
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y1DMHq5/images.jpg"group-title="Hindi channel" group-title="",Sony Televison HD Backup 2
@@ -1145,6 +1149,8 @@ http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 1
 http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 3
+http://103.114.11.37:8081/Star-sports-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup
 https://robitv.com/lps/http://116.204.149.16/T_SportsFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup 2
