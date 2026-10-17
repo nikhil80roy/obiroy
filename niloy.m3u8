@@ -148,8 +148,8 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://103.102.27.173:84/Boishaki-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 2
+https://media.hmair.xyz/api/play/Asian%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 4
 https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 3
@@ -199,7 +199,7 @@ https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV Backup 2
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV Backup 4
-
+https://media.hmair.xyz/api/play/Bangla%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV Backup 3
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3803.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV Backup 5
@@ -240,6 +240,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.102.27.173:84/STAR-NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent TV
 http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent Backup 5
+https://media.hmair.xyz/api/play/Independent%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent Backup
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPGRJxq/images.png"group-title="Bangla BD" group-title="",Independent Backup 3
