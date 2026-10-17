@@ -162,6 +162,8 @@ https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv Backup 3
 https://media.amarnet.net/SOMOY_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv Backup 5
+https://media.hmair.xyz/api/play/Somoy%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv Backup 4
 https://media.amarnet.net/SOMOY_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV
@@ -211,7 +213,7 @@ https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 3
 https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 5
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv Backup 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24 backup 7
@@ -247,7 +249,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV 5
-
+https://media.hmair.xyz/api/play/Desh%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup 4
 https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup
@@ -326,6 +328,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://103.102.27.173:84/Channel-S/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Mz80KD/images.jpg"group-title="Bangla BD" group-title="",Channel S Backup 5
 https://cdn91.rongintv.workers.dev/ch/393
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Mz80KD/images.jpg"group-title="Bangla BD" group-title="",Channel S Backup 6
+https://media.hmair.xyz/api/play/Channel%20S.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Mz80KD/images.jpg"group-title="Bangla BD" group-title="",Channel S Backup 3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Mz80KD/images.jpg"group-title="Bangla BD" group-title="",Channel S Backup 4
@@ -350,6 +354,8 @@ http://103.102.27.173:84/Jamuna-TV/index.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV
 http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 5
+https://media.hmair.xyz/api/play/Global%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 3
@@ -406,6 +412,8 @@ http://vca.easy747.com:80/live/0578694/1295K6K/72148.ts
 http://live.balajibroadband.com:3500/live/762.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 3
 https://short.do/biSKVa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 4
+https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies
 http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DyTBkh/images.jpg"group-title="English Movie" group-title="",Action Hollywood movies
@@ -1265,6 +1273,8 @@ http://198.195.239.50:8095/ZING.MUSIC/tracks-v1a1/mono.m3u8
 https://short.do/3uSGHn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtWHY4xC/images.jpg"group-title="Music Channel"group-title="",Zing Backup 5
 https://short-url.cc/1FxqC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtWHY4xC/images.jpg"group-title="Music Channel"group-title="",Zing Backup 6
+https://media.hmair.xyz/api/play/Zing.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music Backup
