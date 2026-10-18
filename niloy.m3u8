@@ -4,6 +4,8 @@ https://btv.hridoytv-channel.workers.dev/btv.m3u8
 http://198.195.239.50:8095/BTV.HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National HD 13
 http://198.195.239.50:8095/btv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National HD 14
+http://103.135.253.32:8080/BTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National Backup 4
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv3Zgsj7/images.png"group-title="Bangla BD" group-title="",BTV News Backup 4
@@ -145,7 +147,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/429.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV Backup 4
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV Backup 5
-
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV Backup 6
 http://103.102.27.173:84/Boishaki-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV
