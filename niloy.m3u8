@@ -398,6 +398,8 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FnJ4R5N/images.jpg"group-title="Bangla BD" group-title="",Channel 16
 http://103.102.27.173:84/Channel-16/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FnJ4R5N/images.jpg"group-title="Bangla BD" group-title="",Channel 16 Backup
+https://iptvlive.ahmed-bd-org.workers.dev/channel-16-1/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcyPCQv/images.jpg"group-title="Bangla BD" group-title="",G series Drama Backup
