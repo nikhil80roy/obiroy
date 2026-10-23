@@ -194,6 +194,10 @@ http://103.102.27.173:84/Nexus-TV/index.m3u8
 https://media.hmair.xyz/api/play/Nexus%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports FHD
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports FHD Backup
+http://103.16.24.4:8083/14.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports FHD Backup 3
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
 https://robitv.com/lps/http://116.204.149.16/T_SportsFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup 3
@@ -367,7 +371,7 @@ http://103.102.27.173:84/Jamuna-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14wF79H/images.png"group-title="Bangla BD" group-title="",Jamuna TV Backup
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV
-http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
+http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 5
 https://media.hmair.xyz/api/play/Global%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup
@@ -1205,7 +1209,7 @@ http://103.114.11.37:8081/Willow-TV/index.m3u8?token=dsgdfgsdfgasf
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
-
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 https://playztv-apps.pages.dev/willow/index.m3u8
