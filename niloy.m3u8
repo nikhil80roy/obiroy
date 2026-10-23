@@ -479,7 +479,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Ekattor TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Bijoy TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bijoy00.stream/tracks-v1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",RTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",ATN Bangla
@@ -568,6 +568,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Vision HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/visionhd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Channel Z BD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channelzbd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",BD Prime Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Bprimebangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Rana Cable Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ranacabletv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/425.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup 2
