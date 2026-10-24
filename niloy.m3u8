@@ -968,8 +968,12 @@ https://pixeldrain.dev/api/file/7RMKHX7N?download
 https://pub-c3c01936fe864987875933044228c5e4.r2.dev/Nagabandham.2026.[Bolly4u.ski]%20WEB-DL%20Dual%20Audio%201080p%202.4GB.mkv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema Backup
+https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
 https://cdn-4.pishow.tv/live/1033/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
+https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33458.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
@@ -984,6 +988,8 @@ https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri Plus Backup
 http://51.75.127.199:3141/b4ubhojpuri/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri Plus Backup 2
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri NEW
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri 5
@@ -995,7 +1001,9 @@ https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri HD
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Oscar_movies_bhojpuri.png/revision/latest/scale-to-width-down/1000?cb=20210510102742"group-title="Bhojpuri Channel" group-title="",Oscar Movies Bhojpuri
-https://cdn-4.pishow.tv/live/233/master.m3u8
+https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Oscar_movies_bhojpuri.png/revision/latest/scale-to-width-down/1000?cb=20210510102742"group-title="Bhojpuri Channel" group-title="",Oscar Movies Bhojpuri Backup
+https://cdn.pishow.tv/ott/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie Backup
@@ -1289,7 +1297,11 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://flowutc.com/live/34FQ94W/64CW3PG/72218.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel" group-title="",Music India Backup 2
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel"group-title="",Music India
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel" group-title="",Music India Backup 3
+http://live.balajibroadband.com:3500/live/250.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel" group-title="",Music India Backup 4
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJT9ryQ/images.jpg"group-title="Music Channel"group-title="",Music India 5
 http://103.102.27.173:84/Music-India/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0wGDxNt/images.png"group-title="Music Channel" group-title="",Zoom Music
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
@@ -1351,8 +1363,14 @@ http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/montv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music HD
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music HD Backup
+https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music Backup
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music Backup 3
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music Backup 4
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1k81nPZ/images.png"group-title="Music Channel"group-title="",Songeet Bangla Backup 3
 http://flowutc.com/live/34FQ94W/64CW3PG/34727.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1k81nPZ/images.png"group-title="Music Channel"group-title="",Songeet Bangla Backup 4
