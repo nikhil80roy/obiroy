@@ -1373,6 +1373,8 @@ https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQBFpPj/images.jpg"group-title="Music Channel"group-title="",B4U Music Backup 4
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4hpFkdc/images.jpg"group-title="Music Channel"group-title="",8XM Music
+https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1k81nPZ/images.png"group-title="Music Channel"group-title="",Songeet Bangla Backup 3
 http://flowutc.com/live/34FQ94W/64CW3PG/34727.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1k81nPZ/images.png"group-title="Music Channel"group-title="",Songeet Bangla Backup 4
