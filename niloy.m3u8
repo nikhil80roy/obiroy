@@ -161,7 +161,7 @@ https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 2
 https://media.hmair.xyz/api/play/Asian%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 4
-https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cDKdKBC/images.jpg"group-title="Bangla BD" group-title="",Desi TV
@@ -233,7 +233,9 @@ https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 3
 https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh0kvp0M/images.png"group-title="Bangla BD" group-title="",Bijoy TV Backup 5
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv Backup 3
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z5pbPX/images.jpg"group-title="Bangla BD" group-title="",Channel 24 backup 7
@@ -385,15 +387,15 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 3
 http://103.102.27.173:84/global-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 4
-https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV
-http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup
 https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 3
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 4
-https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/19.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 5
 http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90s3Xywv/images.jpg"group-title="Bangla BD" group-title="",Somoy TV
