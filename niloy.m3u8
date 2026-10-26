@@ -436,26 +436,25 @@ http://170.83.49.66:8083/AXNHD/index.m3u8
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6Zwn1qx/images.jpg"group-title="English Movie" group-title="",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV
 http://vca.easy747.com:80/live/0578694/1295K6K/72148.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup
 http://live.balajibroadband.com:3500/live/762.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 3
 https://short.do/biSKVa
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 4
 https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 5
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4rqWWZ/images.png"group-title="English Movie" group-title="",Star Movies
 http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DyTBkh/images.jpg"group-title="English Movie" group-title="",Action Hollywood movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4rqWWZ/images.png"group-title="English Movie" group-title="",Star Movies
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies Backup 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4rqWWZ/images.png"group-title="English Movie" group-title="",Star Movies Backup 5
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4rqWWZ/images.png"group-title="English Movie" group-title="",Star Movies HD Backup
 http://103.114.11.37:8081/Star-Movies/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv3DX1F4/images.jpg"group-title="English Movie" group-title="",MOVIES NOW HD
 https://tinyurl.com/w6dvsnxb
