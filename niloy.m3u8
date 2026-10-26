@@ -444,6 +444,9 @@ http://live.balajibroadband.com:3500/live/762.m3u8
 https://short.do/biSKVa
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 4
 https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX60YXFq/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 5
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv182bBm/images.png"group-title="English Movie" group-title="",Star Movies
 http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DyTBkh/images.jpg"group-title="English Movie" group-title="",Action Hollywood movies
