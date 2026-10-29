@@ -446,6 +446,8 @@ http://live.balajibroadband.com:3500/live/762.m3u8
 https://short.do/biSKVa
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 4
 https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 6
+https://app.uckingcrazy1.workers.dev/api/play/Sony%20Pix.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 5
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4rqWWZ/images.png"group-title="English Movie" group-title="",Star Movies
@@ -1008,6 +1010,8 @@ https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri 5
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132124.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri 6
+https://app.uckingcrazy1.workers.dev/api/play/Sangeet%20Bhojpuri.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
@@ -1099,6 +1103,8 @@ http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=t
 http://103.102.27.173:84/SONY-MAX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max 2
+https://app.uckingcrazy1.workers.dev/api/play/COLORS%20CINEPLEX.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C56ZXtnG/images.jpg"group-title="Hindi channel" group-title="",Sony Max 1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4hkQRGH/images.jpg"group-title="Hindi channel" group-title="",Sony SAB HD
@@ -1270,7 +1276,7 @@ http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnBccRCT/images.jpg"group-title="Documentary",BBC Earth HD
-https://cdn91.rongintv.workers.dev/ch/222
+https://app.uckingcrazy1.workers.dev/api/play/BBC%20Earth.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD Backup
