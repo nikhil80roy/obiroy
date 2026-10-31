@@ -1220,7 +1220,7 @@ https://robitv.com/lps/http://116.204.149.16/T_SportsFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup 2
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport HD 4
-https://robitv.com/lps/http://103.185.24.134:3001/TSportsHD/index.m3u8
+https://tinyurl.com/436ehweh
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup 3
 https://robitv.com/lps/http://116.204.149.16/T_SportsFHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup 4
@@ -1239,13 +1239,8 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
 http://103.114.11.37:8081/PTV/index.m3u8?token=dsgdfgsdfgasf
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports Backup
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports Backup
-
+https://tinyurl.com/5n96k2fw
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 http://103.114.11.37:8081/Willow-TV/index.m3u8?token=dsgdfgsdfgasf
 
@@ -1259,6 +1254,8 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 https://playztv-apps.pages.dev/willow/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMHT7x40/images.jpg"group-title="Sport Update",A SPORTS HD
 https://media.amarnet.net/ASportsHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMHT7x40/images.jpg"group-title="Sport Update",A SPORTS HD Backup
+https://tinyurl.com/w7y87dy4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNFZKZB/images.jpg"group-title="Sport Update",United 8 Sport 2 HD 
 http://103.114.11.37:8081/Unite8-sports-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNFZKZB/images.jpg"group-title="Sport Update",United 8 Sport 1 HD 
