@@ -132,6 +132,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga TV HD
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga TV fast
+http://tv.iptv24bd.live:8081/MassrangaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga Backup TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga Backup 3
@@ -456,14 +458,8 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 http://vca.easy747.com:80/live/0578694/1295K6K/72148.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup
 http://live.balajibroadband.com:3500/live/762.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 3
-https://short.do/biSKVa
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 4
-https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 6
 https://app.uckingcrazy1.workers.dev/api/play/Sony%20Pix.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 5
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 7
 http://tv.iptv24bd.live:8080/sony-pix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4rqWWZ/images.png"group-title="English Movie" group-title="",Star Movies
@@ -482,6 +478,8 @@ https://tinyurl.com/w6dvsnxb
 http://livetv.akr4m.com:8080/bdtv/restrem/47
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD
 https://tinyurl.com/bdf5nwyt
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD Fast
+http://tv.iptv24bd.live:8080/Movies-now/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD Backup 3
 https://media.amarnet.net/StarMoviesHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dxLQKWk/images.jpg"group-title="English Movie" group-title="",Star Movies HD Backup
@@ -616,6 +614,8 @@ https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
 http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/171505.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD Backup 4
 https://media.amarnet.net/Jalsha_Movies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76zX8GKB/images.jpg"group-title="Indian Bangla" group-title="",Jalsha Movies HD fast
+http://tv.iptv24bd.live:8081/SonyMaxHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3N7XsL4R/images.jpg"group-title="Indian Bangla" group-title="",ZB Bhakti
@@ -1167,6 +1167,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 6
 http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 7
+http://tv.iptv24bd.live:8080/zee-cinema-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action Backup
@@ -1255,6 +1257,8 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://media.amarnet.net/ASportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMHT7x40/images.jpg"group-title="Sport Update",A SPORTS HD Backup
 https://tinyurl.com/w7y87dy4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMHT7x40/images.jpg"group-title="Sport Update",A SPORTS HD Backup fast
+http://51.79.251.252:8080/asports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNFZKZB/images.jpg"group-title="Sport Update",United 8 Sport 2 HD 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNFZKZB/images.jpg"group-title="Sport Update",United 8 Sport 1 HD 
