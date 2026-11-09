@@ -56,6 +56,8 @@ https://media.amarnet.net/atn_bangla/index.m3u8
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News super fast
+http://tv.iptv24bd.live:8081/ATN_News/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup 3
 http://103.102.27.173:84/ATN-NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup
@@ -112,6 +114,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nL4hSMfb/images.jpg"group-title="Bangla BD" group-title="",NTV Backup
 https://playztv-apps.pages.dev/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL4hSMfb/images.jpg"group-title="Bangla BD" group-title="",NTV Backup fast
+http://tv.iptv24bd.live:8081/NTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gc7rL5VY/images.png"group-title="Bangla BD" group-title="",Ekhon Backup 5
@@ -178,6 +182,8 @@ https://media.hmair.xyz/api/play/Somoy%20TV.m3u8
 https://media.amarnet.net/SOMOY_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv Backup 5
 https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pzw1rZm/images.jpg"group-title="Bangla BD" group-title="",Somoy Tv Backup fast
+http://tv.iptv24bd.live:8080/Somoy-tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV Backup 6
@@ -216,6 +222,8 @@ https://media.amarnet.net/tspors/tracks-v1a1/mono.m3u8
 https://media.amarnet.net/tspors/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup Super fast
+http://tv.iptv24bd.live:8080/t-sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZKKq4FP/images.jpg"group-title="Bangla BD" group-title="",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV HD
@@ -456,6 +464,8 @@ https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8
 https://app.uckingcrazy1.workers.dev/api/play/Sony%20Pix.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 5
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjt72wkK/images.jpg"group-title="English Movie" group-title="",SONY Pix TV Backup 7
+http://tv.iptv24bd.live:8080/sony-pix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk4rqWWZ/images.png"group-title="English Movie" group-title="",Star Movies
 http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DyTBkh/images.jpg"group-title="English Movie" group-title="",Action Hollywood movies
