@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National
-https://btv.hridoytv-channel.workers.dev/btv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National Fast
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National HD 12
 http://198.195.239.50:8095/BTV.HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBx9yxv/download.png"group-title="Bangla BD" group-title="",BTV National HD 13
@@ -68,8 +68,8 @@ https://media.amarnet.net/ATN_News/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel I
 https://tvsen3.b-cdn.net/qUud8Nxs/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel I Backup
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel I Backup fast
+https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel Backup
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgCKd0Zz/images.png"group-title="Bangla BD" group-title="",Bangla Vision HD
@@ -82,8 +82,8 @@ http://103.102.27.173:84/Bangla-Vision/index.m3u8
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRXYPSQ/images.jpg"group-title="Bangla BD" group-title="",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRXYPSQ/images.jpg"group-title="Bangla BD" group-title="",Deepto TV HD Backup
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRXYPSQ/images.jpg"group-title="Bangla BD" group-title="",Deepto TV HD Backup fast
+https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LhKG6Qj8/images.jpg"group-title="Bangla BD" group-title="",Duronto TV HD
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjPqFxnT/images.png"group-title="Bangla BD" group-title="",Ekushey TV HD
@@ -133,7 +133,7 @@ https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga TV HD
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga TV fast
-http://tv.iptv24bd.live:8081/MassrangaTV/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga Backup TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMkmJ31/images.jpg"group-title="Bangla BD" group-title="",Massranga Backup 3
@@ -188,6 +188,8 @@ https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
 http://tv.iptv24bd.live:8080/Somoy-tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV 7
+https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV Backup 6
 http://116.204.149.16/satv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2G2L0y/images.jpg"group-title="Bangla BD" group-title="",SA TV Backup 5
@@ -354,8 +356,8 @@ http://str24.l9574.com/510.stream/index.m3u8
 http://103.151.60.162:2122/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZB38gzc/images.jpg"group-title="Bangla BD" group-title="",Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GgkHQM/images.png"group-title="Bangla BD" group-title="",Channel 9
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GgkHQM/images.png"group-title="Bangla BD" group-title="",Channel 9 fast
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GgkHQM/images.png"group-title="Bangla BD" group-title="",Channel 9 Backup
 http://103.102.27.173:84/CHANNEL-9-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GgkHQM/images.png"group-title="Bangla BD" group-title="",Channel 9 Backup 4
@@ -412,8 +414,8 @@ http://103.102.27.173:84/global-tv/index.m3u8
 https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 3
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 4
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup fast
+https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 5
 http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90s3Xywv/images.jpg"group-title="Bangla BD" group-title="",Somoy TV
