@@ -228,6 +228,8 @@ https://media.amarnet.net/tspors/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup Super fast
 http://tv.iptv24bd.live:8080/t-sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPtrW02j/images.png"group-title="Bangla BD" group-title="",T Sports Backup Super
+http://116.204.149.16/T_SportsFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZKKq4FP/images.jpg"group-title="Bangla BD" group-title="",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsCD3yL5/images.jpg"group-title="Bangla BD" group-title="",Bangla TV HD
