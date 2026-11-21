@@ -31,7 +31,7 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8?e=1784102573&u=ee5437
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xwNR3Gk/images.png"group-title="Bangla BD" group-title="",My TV HD Backup 4
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xwNR3Gk/images.png"group-title="Bangla BD" group-title="",My TV HD Backup 3
-
+https://media.amarnet.net/MY_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xwNR3Gk/images.png"group-title="Bangla BD" group-title="",My TV HD Backup
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN Bangla HD
@@ -49,7 +49,7 @@ http://103.102.27.173:84/ATN-NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup
 https://media.amarnet.net/ATN_News/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup 6
-
+https://media.amarnet.net/ATN_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWpG0Cx/images.jpg"group-title="Bangla BD" group-title="",ATN News Backup 4
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL4z7t9/images.jpg"group-title="Bangla BD" group-title="",Channel I
@@ -63,7 +63,7 @@ https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgCKd0Zz/images.png"group-title="Bangla BD" group-title="",Bangla Vision Backup
 http://103.102.27.173:84/Bangla-Vision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgCKd0Zz/images.png"group-title="Bangla BD" group-title="",Bangla Vision Backup 3
-
+https://media.amarnet.net/Bangla_vision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3ycvpL/images.jpg"group-title="Bangla BD" group-title="",Enter TV HD BD
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRXYPSQ/images.jpg"group-title="Bangla BD" group-title="",Deepto TV HD
@@ -148,6 +148,8 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV Backup 6
 http://103.102.27.173:84/Boishaki-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QW2Xb6C/images.png"group-title="Bangla BD" group-title="",Boishaki TV Backup 7
+https://media.amarnet.net/boishakhi_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF7nWqfc/images.jpg"group-title="Bangla BD" group-title="",Asian TV Backup 2
@@ -287,7 +289,7 @@ https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup
 http://103.102.27.173:84/Desh-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup 5
-
+https://media.amarnet.net/Desh_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQMqkh0/images.jpg"group-title="Bangla BD" group-title="",Desh TV Backup 3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rskWBPQr/images.png"group-title="Bangla BD" group-title="",DBC News HD
@@ -397,7 +399,7 @@ http://103.102.27.173:84/global-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKcqkpjS/images.png"group-title="Bangla BD" group-title="",Global TV Backup 4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV
-
+https://media.amarnet.net/Ekattor_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup
 https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvPh20Vw/images.png"group-title="Bangla BD" group-title="",Ektattor TV Backup 3
@@ -1189,6 +1191,8 @@ https://media.amarnet.net/nick/index.m3u8
 http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla Backup 5
 http://198.195.239.50:8095/NICK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla Backup 6
+https://tvsen7.aynaott.com/nicklodean/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTYWWTxG/images.jpg"group-title="Carton" group-title="",Sonic Backup 3
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/wow_kidz_hindi.jpg"group-title="Carton" group-title="",WOW WID
