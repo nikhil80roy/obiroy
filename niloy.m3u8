@@ -1165,6 +1165,8 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 http://103.102.27.173:84/COLORS-CINEPLEX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLQFyqCR/images.jpg"group-title="Hindi channel" group-title="",Colors Complex Backup 4
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLQFyqCR/images.jpg"group-title="Hindi channel" group-title="",Colors Complex Backup 5
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup
@@ -1426,7 +1428,9 @@ http://103.102.27.173:84/Sangeet-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YStSzrTR/images.jpg"group-title="Music Channel"group-title="",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YStSzrTR/images.jpg"group-title="Music Channel"group-title="",Dhoom Music
-
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:dhoom.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YStSzrTR/images.jpg"group-title="Music Channel"group-title="",Dhoom Music Backup
+https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWM8TVpb/Screenshot-2026-08-03-093525.jpg"group-title="Music Channel"group-title="",Bangla Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 
