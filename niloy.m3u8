@@ -645,7 +645,13 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla Backup 3
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla Backup 5
-
+https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla Backup 6
+https://fta.ektv.in/live/658/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla Backup 7
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrWn0QR/images.jpg"group-title="Indian Bangla" group-title="",Enter Bangla Backup 8
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x17KfjNr/images.png"group-title="Indian Bangla" group-title="",Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x17KfjNr/images.png"group-title="Indian Bangla" group-title="",Zee Bangla HD Backup
@@ -1032,6 +1038,10 @@ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132124.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkDRWHn8/images.jpg"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkDRWHn8/images.jpg"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri Digital
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkDRWHn8/images.jpg"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri Backup
+https://fta.ektv.in/live/467/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkDRWHn8/images.jpg"group-title="Bhojpuri Channel" group-title="",EPIC Crime HD
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkDRWHn8/images.jpg"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
