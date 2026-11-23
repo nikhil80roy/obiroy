@@ -78,8 +78,8 @@ https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjPqFxnT/images.png"group-title="Bangla BD" group-title="",Ekushey TV Backup
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjPqFxnT/images.png"group-title="Bangla BD" group-title="",Ekushey TV Backup 3
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXgTMx5M/images.png"group-title="Bangla BD" group-title="",NAN TV HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYvKbS7Q/images.png"group-title="Bangla BD" group-title="",Nagorik TV HD
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYvKbS7Q/images.png"group-title="Bangla BD" group-title="",Nagorik TV Backup TV
