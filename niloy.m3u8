@@ -1207,6 +1207,8 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://198.195.239.50:8095/NICK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla Backup 6
 https://tvsen7.aynaott.com/nicklodean/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcdnPHs/images.jpg"group-title="Carton" group-title="",Nick bangla Backup 7
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/519972.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTYWWTxG/images.jpg"group-title="Carton" group-title="",Sonic Backup 3
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/wow_kidz_hindi.jpg"group-title="Carton" group-title="",WOW WID
@@ -1228,7 +1230,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/32/ZB_Cartoon.png/revision/latest?cb=20251223092359"group-title="Carton" group-title="",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rVPHL8V/images.jpg"group-title="Carton" group-title="",ETV Bal-Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest/scale-to-width-down/1000?cb=20210423103847"group-title="Carton" group-title="",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest/scale-to-width-down/1000?cb=20210423103847"group-title="Carton" group-title="",RONGEEN TV
@@ -1261,6 +1263,8 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1BTrM8/images.jpg"group-title="Sport Update",Star Sports  2 Backup
 https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1BTrM8/images.jpg"group-title="Sport Update",Star Sports  2 Backup ৪
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/846950.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1BTrM8/images.jpg"group-title="Sport Update",Star Sports  2 Backup 3
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxbnRfcZ/images.jpg"group-title="Sport Update",Sony Ten 1
@@ -1306,7 +1310,7 @@ http://vca.easy747.com/live/0578694/1295K6K/63176.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnBccRCT/images.jpg"group-title="Documentary",BBC Earth HD
-https://app.uckingcrazy1.workers.dev/api/play/BBC%20Earth.m3u8
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/499681.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD Backup
