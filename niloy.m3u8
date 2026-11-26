@@ -1185,6 +1185,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 7
 http://tv.iptv24bd.live:8080/zee-cinema-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Fast
+https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsMqxhjT/images.jpg"group-title="Hindi channel" group-title="",Zee Cinema HD Backup 8
 https://media.amarnet.net/Z_Cinema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1t2MGgH/images.png"group-title="Hindi channel" group-title="",Zee Action
