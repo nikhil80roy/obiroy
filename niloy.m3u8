@@ -314,6 +314,8 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZgC7dJZ/images.jpg"group-title="Bangla BD" group-title="",Matribhumi TV
 http://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZgC7dJZ/images.jpg"group-title="Bangla BD" group-title="",Matribhumi TV Backup
+http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJVtybXT/images.jpg"group-title="Bangla BD" group-title="",Sananda TV Backup 3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YX7RX7c/images.png"group-title="Bangla BD" group-title="",News 24
@@ -1245,18 +1247,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=90243&deviceMac=00:1A:79:F2:0F:96
 http://live.balajibroadband.com:3500/live/1345.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Bangla Backup
 http://198.195.239.50:8095/SONIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport HD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup 1
+https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport Backup 2
 https://tinyurl.com/436ehweh
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports 8 HD
-https://tinyurl.com/3d63spsc
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup
-https://tinyurl.com/5n6sner5
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup 5
-https://tinyurl.com/smj86sk2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports Backup 2
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport HD 4
-https://tinyurl.com/436ehweh
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport HD Backup 3
+https://media.amarnet.net/tspors/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport HD Backup 4
+https://tinyurl.com/yfjx3v43
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sport HD Backup 5
+http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52RzR9RK/images.png"group-title="Sport Update",Ben Sports 
 https://tinyurl.com/4tzkjwya
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1BTrM8/images.jpg"group-title="Sport Update",Star Sports  2
@@ -1270,49 +1270,58 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/846950.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1BTrM8/images.jpg"group-title="Sport Update",Star Sports  2 Backup 3
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxbnRfcZ/images.jpg"group-title="Sport Update",Sony Ten 1
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+https://tinyurl.com/wase9fd5
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxbnRfcZ/images.jpg"group-title="Sport Update",Sony Ten 1 Backup
+https://tinyurl.com/wase9fd5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvV4t7nL/images.jpg"group-title="Sport Update",Sony Ten 2
-https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+https://tinyurl.com/wase9fd5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtfSZ09q/images.jpg"group-title="Sport Update",Sony Ten 5
-https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+https://tinyurl.com/bdhxswsp
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
-https://tinyurl.com/5n96k2fw
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
-https://playztv-apps.pages.dev/willow/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZM3WDXm/images.jpg"group-title="Sport Update",Cricbuzz Sports Backup
+https://tinyurl.com/mw6ubaut
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZM3WDXm/images.jpg"group-title="Sport Update",Cricbuzz Sports Backup
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZM3WDXm/images.jpg"group-title="Sport Update",Cricbuzz Sports
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8
+https://tinyurl.com/mptxxk3h
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMHT7x40/images.jpg"group-title="Sport Update",A SPORTS HD
 https://media.amarnet.net/ASportsHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMHT7x40/images.jpg"group-title="Sport Update",A SPORTS HD Backup
 https://tinyurl.com/w7y87dy4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMHT7x40/images.jpg"group-title="Sport Update",A SPORTS HD Backup fast
 http://51.79.251.252:8080/asports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNFZKZB/images.jpg"group-title="Sport Update",United 8 Sport 2 HD 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNFZKZB/images.jpg"group-title="Sport Update",United 8 Sport 1 HD 
+https://tinyurl.com/3d63spsc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png"group-title="Sport Update",T Sports
-http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports
-http://103.102.27.173:84/Ten-Sports/index.m3u8
+https://live.incableinternet.com/ten-sports/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports Backup
-http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports Backup 3
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/658436.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"group-title="Sport Update",Ten Sports Backup 4
-http://vca.easy747.com/live/0578694/1295K6K/63176.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnBccRCT/images.jpg"group-title="Documentary",BBC Earth HD
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/499681.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsRW2yVD/images.jpg"group-title="Documentary",Travel XP HD Backup
