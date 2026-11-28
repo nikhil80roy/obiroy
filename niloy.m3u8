@@ -88,8 +88,8 @@ https://flussonic.defineatoz.com/backup/index.m3u8
 http://103.102.27.173:84/NAGORIK-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYvKbS7Q/images.png"group-title="Bangla BD" group-title="",Nagorik TV Backup 3
 http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYvKbS7Q/images.png"group-title="Bangla BD" group-title="",Nagorik TV Backup 5
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqKGF7yN/shikortv1.jpg"group-title="Bangla BD" group-title="",Shikor TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvGBPSLM/images.png"group-title="Bangla BD" group-title="",Rajdhani TV HD
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvGBPSLM/images.png"group-title="Bangla BD" group-title="",Rajdhani Backup
